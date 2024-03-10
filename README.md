@@ -1,4 +1,4 @@
-# BSc in Computer Science & Engineering
+## BSc in Computer Science & Engineering
 
 ### Skills
 Python  Excel  Powerpoint  SQL PL/SQL  
