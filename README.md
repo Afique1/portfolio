@@ -1,7 +1,7 @@
 # Portfolio
 
 ### About Me
-I have completed my Bachelor of Science in Computer Science & Engineering, while majoring in Information System. 
+Database Management, Discovering pattern from data (Data Mining), Machine Learning, Encryption/Decryption, Unix/Linux Operating System, Interaction between humans and computers (HCI) are some of the fields that I have knowledge upon and am eager to enhance them.
 
 ### Technical Skills
 ```
