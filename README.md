@@ -1,14 +1,15 @@
 # Portfolio
 
-## BSc in Computer Science & Engineering
+### About Me
+I have completed my Bachelor of Science in Computer Science & Engineering, while majoring in Information System. 
 
 ### Technical Skills
 ```
 Python - Numpy, Pandas, Matplotlib,
-         Scikkit-learn, TensorFlow
+         Scikit-learn, TensorFlow
 PL/SQL - MySQL, Oracle, Microsoft SQL Server
 Excel - pivot table, dashboard, visualization
-PowerBI - Interactive Session
+PowerBI - Interactive dashboard
 Powerpoint - Report, Animation
 ```
 
@@ -27,9 +28,13 @@ Powerpoint - Report, Animation
 
   
 ### Projects
-C#
-HTML, CSS, JavaScript
-Python
+- Football Team Squad Management (GUI) - in `C# [mySQL database]`
+- Restaurant's Food Management (Console based)- in `JAVA`
+- Database Management - in PL/SQL `[using Oracle database]`
+- Data Analysis - in `Python`
+- Operating Unix/Linux OS and generating basic `shell scripts`.
+- Web Development - in `HTML, CSS, JavaScript, Bootstrap`
+
 
 
 ### Work Experience
