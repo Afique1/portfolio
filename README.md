@@ -34,7 +34,7 @@ Python
   
   E-soft (2023 February - 2023 September)
 
-  Responsibilities
+  Responsibilities:
   - Research and Content Creation
   - User-Friendly Interface Design
   - Illustrator Picture Generation
