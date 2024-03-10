@@ -28,12 +28,12 @@ Powerpoint - Report, Animation
 
   
 ### Projects
-- Football Team Squad Management (GUI) - in `C# [mySQL database]`
-- Restaurant's Food Management (Console based)- in `JAVA`
-- Database Management - in PL/SQL `[using Oracle database]`
-- Data Analysis - in `Python`
-- Operating Unix/Linux OS and generating basic `shell scripts`.
-- Web Development - in `HTML, CSS, JavaScript, Bootstrap`
+- Football Team Squad Management (GUI) - in  `C# [mySQL database]`
+- Restaurant's Food Management (Console based)- in  `JAVA`
+- Database Management - in  `PL/SQL [using Oracle database]`
+- Data Analysis - in  `Python`
+- Operating Unix/Linux OS and generating basic  `shell scripts`.
+- Web Development - in  `HTML, CSS, JavaScript, Bootstrap`
 
 
 
