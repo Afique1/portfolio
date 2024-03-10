@@ -2,7 +2,8 @@
 
 ### Technical Skills
 ```
-Python - Numpy, Pandas, Matplotlib, Scikkit-learn, TensorFlow
+Python - Numpy, Pandas, Matplotlib,
+         Scikkit-learn, TensorFlow
 PL/SQL - MySQL, Oracle, Microsoft SQL Server
 Excel - pivot table, dashboard, visualization
 PowerBI - Interactive Session
