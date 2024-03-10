@@ -10,10 +10,12 @@ Powerpoint - animation
 PL/SQL - MySQL, Oracle, Microsoft SQL Server
 
 ### Education
-- BSc in Computer Science and Engineering [2019-2023]
+- BSc in Computer Science and Engineering (2019-2023)
+  
   American International University-Bangladesh
 
-- Higher Secondary School Certificate [2016-2018]
+- Higher Secondary School Certificate (2016-2018)
+  
   BCIC College
   
 ### Projects
