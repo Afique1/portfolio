@@ -2,8 +2,11 @@
 
 ### Skills
 Python - different Libraries
+
 Excel - pivot table
+
 Powerpoint - animation
+
 PL/SQL - MySQL, Oracle, Microsoft SQL Server
 
 ### Education
