@@ -18,14 +18,6 @@ Powerpoint - Report, Animation
   
   American International University-Bangladesh
 
-- Higher Secondary Certificate (2016-2018)
-
-  BCIC College
-
-- Secondary School Certificate (2014-2016)
-
-  Mohammadpur Model School and College
-
   
 ### Projects
 - Football Team Squad Management (GUI) - in  `C# [mySQL database]`
