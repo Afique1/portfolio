@@ -1,23 +1,21 @@
 # Portfolio
 
 ### About Me
-Database Management, Discovering pattern from data (Data Mining), Machine Learning, Encryption/Decryption, Unix/Linux Operating System, Interaction between humans and computers (HCI) are some of the fields that I have knowledge upon and am eager to enhance them.
+Database Management, Discovering knowledge from data (Data Mining), Machine Learning, Encryption/Decryption, Unix/Linux Operating System, Interaction between humans and computers (HCI) are some of the fields that I have knowledge upon and am eager to enhance them.
 
 ### Technical Skills
 ```
 Python - Numpy, Pandas, Matplotlib,
          Scikit-learn, TensorFlow
-PL/SQL - MySQL, Oracle, Microsoft SQL Server
+PL/SQL - MySQL, Oracle, Microsoft SQL Server, PostgreSQL
 Excel - pivot table, dashboard, visualization
 PowerBI - Interactive dashboard
 Powerpoint - Report, Animation
 ```
 
 ### Education
-- BSc in Computer Science and Engineering (2019-2023)
-  
-  American International University-Bangladesh
-
+- BSc in Computer Science and Engineering 
+- Master's in Data Science 
   
 ### Projects
 - Football Team Squad Management (GUI) - in  `C# [mySQL database]`
@@ -25,7 +23,7 @@ Powerpoint - Report, Animation
 - Database Management - in  `PL/SQL [using Oracle database]`
 - Data Analysis - in  `Python`
 - Operating Unix/Linux OS and generating basic  `shell scripts`.
-- Web Development - in  `HTML, CSS, JavaScript, Bootstrap`
+- Web Development - in  `HTML, CSS, Bootstrap, JavaScript, Node JS`
 
 
 
